@@ -22,5 +22,5 @@ This repository is a demonstration of the basic steps involved in creating a Git
    - Commit my changes with `git commit -m "Print a string"`.
    - Push the changes to GitHub with `git push origin main`.
   
-     This is the video recording of the whole process: [Watch the Video](https://www.youtube.com/watch?v=ZFZUGP5oEbw)
+     This is the video recording of the whole process: [Watch the Video Here](https://www.youtube.com/watch?v=ZFZUGP5oEbw)
 
