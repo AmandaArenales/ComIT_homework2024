@@ -19,6 +19,8 @@ This repository is a demonstration of the basic steps involved in creating a Git
 
 4. **Upload 'helloworld.py' to GitHub:**
    - Use the `git add .` command to stage my changes.
-   - Commit my changes with `git commit -m "Print a string".
+   - Commit my changes with `git commit -m "Print a string"`.
    - Push the changes to GitHub with `git push origin main`.
+  
+     This is the video recording of the whole process: [Watch the Video](https://www.youtube.com/watch?v=ZFZUGP5oEbw)
 
